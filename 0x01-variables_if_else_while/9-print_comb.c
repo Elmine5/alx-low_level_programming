@@ -3,6 +3,7 @@
  * main - Prog Entry point
  * Return: always (0)
  */
+
 int main(void)
 	{
 	int a;
