@@ -41,7 +41,7 @@ int _atoi(char *s)
 	}
 	if (f == 0)
 		return (0);
-		return (n);
+	return (n);
 }
 
 /**
@@ -56,7 +56,7 @@ int main(int argc, char *argv[])
 {
 	int result, num1, num2;
 
-	if (argc  < 3 || argc > 3)
+	if (argc < 3 || argc > 3)
 	{
 		pritf("Error\n");
 		return (1);
